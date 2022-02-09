@@ -5,7 +5,7 @@ Pada tahun 2020 yang laluat berbentuk malware, tro saja, Badan Siber dan Sandi N
 
 ### information security
 
-keamanan informasi ialah sekumpulan metodology, praktik maupun proses yang diberlakukan untuk melindungi keamanan informasi atau data pribadi dari akeses, modifikasi, penyalahgunaan dan pencurian dari orang yang tidak memiliki wewenang terhadap suatu informasi.
+keamanan informasi ialah sekumpulan metodologi, praktik maupun proses yang diberlakukan untuk melindungi keamanan informasi atau data pribadi dari akses, modifikasi, penyalahgunaan dan pencurian dari orang yang tidak memiliki wewenang terhadap suatu informasi.
 
 kita akan diperkenalkan pada model dari information security (infosec), ialah CIA atau (Confidentiality, Integrity, dan Availability) triad. berbagai kejahatan dunia cyber akan melanggar setidaknya satu dari model aspek atau atribut CIA triad tersebut.
 
@@ -13,4 +13,6 @@ kita akan diperkenalkan pada model dari information security (infosec), ialah CI
 
 ![](https://logique.s3.ap-southeast-1.amazonaws.com/2021/02/CIA-triad.jpg)
 
+CIA triad merupakan model standar dalam keamanan informasi yang dirancang untuk mengatur dan mengevaluasi bagaimana sebuah perusahaan atau organisasi ketika data disimpan, dirahasiakan, dikirim, dan tersedia.
 
+#### Confidentiality (Kerahasiaan)
