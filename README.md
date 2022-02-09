@@ -15,4 +15,4 @@ kita akan diperkenalkan pada model dari information security (infosec), ialah CI
 
 CIA triad merupakan model standar dalam keamanan informasi yang dirancang untuk mengatur dan mengevaluasi bagaimana sebuah perusahaan atau organisasi ketika data disimpan, dirahasiakan, dikirim, dan tersedia.
 
-#### Confidentiality (Kerahasiaan)
+#### *- Confidentiality (Kerahasiaan)*
