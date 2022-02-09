@@ -15,9 +15,24 @@ kita akan diperkenalkan pada model dari information security (infosec), ialah CI
 
 CIA triad merupakan model standar dalam keamanan informasi yang dirancang untuk mengatur dan mengevaluasi bagaimana sebuah perusahaan atau organisasi ketika data disimpan, dirahasiakan, dikirim, dan tersedia.
 
-#### *- Availability (Ketersediaan)*
+#### *- Confidentiality (Kerahasiaan)*
 
-text
+Ketika kita membahas mengenai aspek confidentiality atau kerahasiaan informasi, maka kita sedang berbicara mengenai serangkaian upaya perlindungan agar informasi tidak terakses oleh pihak yang tidak berwenang.
+
+Informasi rahasia memang dianggap sebagai data yang bernilai oleh para cyber hacker. Informasi yang diincar biasanya berupa informasi pelanggan, data karyawan, kekayaan intelektual, atau informasi mengenai rahasia dagang. Oleh karena itulah para cyber hacker terus mencari kerentanan yang ada pada dalam sistem agar mereka bisa mengakses info-info penting tersebut.
+
+Pada umumnya, informasi rahasia dapat jatuh ke tangan yang salah karena data breach atau ancaman orang dalam. Beberapa jenis serangan yang umum digunakan untuk mengakses informasi rahasia tersebut seperti :
+
+- Serangan Man in The Middle
+- Pembobolan enkripsi
+- Serangan eavesdropping
+
+Untuk melindunginya, terdapat sejumlah langkah yang dapat dipergunakan seperti dengan menerapkan autentikasi dua faktor, penggunaan password yang kuat, enkripsi, dan lain-lain. 
+
+Meskipun demikian, Anda juga perlu memahami bahwa informasi rahasia juga dapat terakses oleh pihak yang tidak sah karena kecerobohan atau kesalahan pengguna, serta kontrol keamanan yang tidak memadai. Contohnya seperti penggunaan password yang lemah, berbagi akun, atau karena social engineering karena security awareness yang kurang. 
+
+Oleh karena itulah, pelatihan karyawan atau user juga dapat dilakukan sebagai langkah pencegahan tambahan agar informasi rahasia bisa tetap terlindungi dengan baik. Jadi, kesimpulannya aspek confidentiality ini memiliki tujuan untuk melindungi informasi dari akses dan penyalahgunaan info yang tidak sah.
 
 #### *- Integrity (Integritas)*
-#### *- Confidentiality (Kerahasiaan)*
+
+#### *- Availability (Ketersediaan)*
